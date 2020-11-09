@@ -54,15 +54,6 @@ int main(){
                  scanf("%d",&findId);
                  
                  buscar(c,findId);
-                 //if(buscar(c,v) !=  NULL)
-                 //{
-                 //   //printf("\n\t info = %d",buscar(c,v)->value);
-                 //}
-                 //else 
-                 //{
-                 //    printf("\n\t VALOR INFORMADO NAO ENCONTARDO"); 
-                 //}
-                 
               }      
               break;
           case 4:
